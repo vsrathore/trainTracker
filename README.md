@@ -1,6 +1,6 @@
 # Welcome to Train Tracker !
 
-Hi! This was a fun project, which eventually i am using on weekly basis. It is very handly **utility to track IndianRailway train ticket.**  
+Hi! This was a fun project, which eventually i am using on weekly basis. It is very handy **utility to track IndianRailway train ticket.**  
 
 
 ## Usage/Parameters
