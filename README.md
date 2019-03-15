@@ -4,8 +4,8 @@ Hi! This was a fun project, which eventually i am using on weekly basis. It is v
 
 
 ## Usage/Parameters
-*I use this utility to track train tickets because i am frequent travel between DELHI-JAIPUR* It will not work during Tatkal Booking Hours, due to some IRCTC restrictions.
-Best use is after chart prepared, on light passenger load trains/routes. *This workes best for JP-DELHI route (for me)*.
+*I use this utility to track train tickets because i am frequent traveler between DELHI-JAIPUR* It will not work during Tatkal Booking Hours, due to some IRCTC restrictions.
+Best use is after chart prepared, on light passenger load trains/routes. *This works best for JP-DELHI route (for me)*.
 
 ### Sample Inputs:
 - **Date (YYYYMMDD) :** 20180824
